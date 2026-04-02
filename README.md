@@ -1,5 +1,5 @@
 Predicting Air Quality Index (AQI) with Python
-This project implements a machine learning pipeline to predict AQI levels using key pollutants like CO, Ozone, NO2, and PM2.5 from a geospatial dataset. It demonstrates end-to-end data science workflows suitable for data science students or early-career developers working on environmental ML projects.
+This project implements a machine learning pipeline to predict AQI levels using key pollutants like CO, Ozone, NO2, and PM2.5 from a geospatial dataset. It demonstrates end-to-end data science workflows suitable for data science students or early-career developers working on environmental ML projects. 
 
 Features
 Data loading and preprocessing with Pandas and NumPy

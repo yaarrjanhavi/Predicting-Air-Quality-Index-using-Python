@@ -1,6 +1,6 @@
 # Air Quality Index (AQI) Prediction with Machine Learning
 
-A machine learning pipeline that predicts Air Quality Index levels using environmental pollutant data — including CO, Ozone, NO2, and PM2.5 — from a geospatial dataset. This project walks through a complete end-to-end data science workflow, making it an ideal reference for data science students and early-career developers exploring environmental ML applications.
+A machine learning pipeline that predicts Air Quality Index levels using environmental pollutant data; including CO, Ozone, NO2, and PM2.5; from a geospatial dataset. This project walks through a complete end-to-end data science workflow, making it an ideal reference for data science students and early-career developers exploring environmental ML applications.
 
 ---
 
